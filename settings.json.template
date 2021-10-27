@@ -30,7 +30,7 @@
     // username: The wallet RPC username
     "username": "sixtyninerpc",
     // password: The wallet RPC password
-    "password": "sSTLyCkrD94Y8&9mr^m6W^Mk367Vr!!K"
+    "password": "sSTLyCkrD94YKJDHdhgisudhga^Mk367Vr!!K"
   },
 
   // webserver: a collection of settings that pertain to the node.js express web framework (read more: https://www.npmjs.com/package/express)
@@ -79,7 +79,7 @@
   },
 
   /* Shared page settings */
- 
+
   // shared_pages: a collection of settings that pertain to all webpages for the explorer
   "shared_pages": {
     // theme: Change the look & feel of the explorer with a unique theme. Uses bootswatch themes (https://bootswatch.com)
